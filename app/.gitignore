@@ -1,0 +1,7 @@
+.venv/
+instance/
+.flaskenv
+_pycache_
+api_data.db
+models\_pycache_\
+resources\_pycache_\
