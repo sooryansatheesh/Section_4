@@ -52,6 +52,7 @@ cd section_4
 Ensure you have a requirements.txt file with the necessary dependencies. Here's an example:
 
 SQLAlchemy==1.4.22
+
 requests==2.25.1
 
 ### 3. Build and Run the Application with Docker Compose
