@@ -9,6 +9,7 @@ A mock API was created using Flask, which generates random data for each request
 ## Features
 
 - Fetch new records from a mock API and insert them into the database.
+- Handling edge cases effectively.
 - Transformation of data fetched from the mock API
     - "name" is normalized by removing white spaces and converting all characters to lowercase
     - "timestamp" is converted from string to datetime format
