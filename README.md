@@ -26,6 +26,7 @@ A mock API was created using Flask, which generates random data for each request
 - Docker Compose
 
 ## Project Structure
+```css
 Section_4/
 ├── docker-compose.yml
 └── app/
@@ -38,7 +39,7 @@ Section_4/
     ├── api_data.db
     └── requirements.txt
 
-
+```
 ## Getting Started
 
 ### 1. Clone the Repository
